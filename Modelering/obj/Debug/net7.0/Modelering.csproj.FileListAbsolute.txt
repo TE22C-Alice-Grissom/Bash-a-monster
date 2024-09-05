@@ -1,0 +1,14 @@
+c:\Users\alice.grissom\Prog2\Bash a monster\Modelering\bin\Debug\net7.0\Modelering.exe
+c:\Users\alice.grissom\Prog2\Bash a monster\Modelering\bin\Debug\net7.0\Modelering.deps.json
+c:\Users\alice.grissom\Prog2\Bash a monster\Modelering\bin\Debug\net7.0\Modelering.runtimeconfig.json
+c:\Users\alice.grissom\Prog2\Bash a monster\Modelering\bin\Debug\net7.0\Modelering.dll
+c:\Users\alice.grissom\Prog2\Bash a monster\Modelering\bin\Debug\net7.0\Modelering.pdb
+c:\Users\alice.grissom\Prog2\Bash a monster\Modelering\obj\Debug\net7.0\Modelering.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alice.grissom\Prog2\Bash a monster\Modelering\obj\Debug\net7.0\Modelering.AssemblyInfoInputs.cache
+c:\Users\alice.grissom\Prog2\Bash a monster\Modelering\obj\Debug\net7.0\Modelering.AssemblyInfo.cs
+c:\Users\alice.grissom\Prog2\Bash a monster\Modelering\obj\Debug\net7.0\Modelering.csproj.CoreCompileInputs.cache
+c:\Users\alice.grissom\Prog2\Bash a monster\Modelering\obj\Debug\net7.0\Modelering.dll
+c:\Users\alice.grissom\Prog2\Bash a monster\Modelering\obj\Debug\net7.0\refint\Modelering.dll
+c:\Users\alice.grissom\Prog2\Bash a monster\Modelering\obj\Debug\net7.0\Modelering.pdb
+c:\Users\alice.grissom\Prog2\Bash a monster\Modelering\obj\Debug\net7.0\Modelering.genruntimeconfig.cache
+c:\Users\alice.grissom\Prog2\Bash a monster\Modelering\obj\Debug\net7.0\ref\Modelering.dll
